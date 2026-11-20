@@ -1,0 +1,4 @@
+model,weak_signal_cases,actual_positives,false_negatives,missed_positive_rate
+Decision Tree,1847,999,248,0.24824824824824826
+Optimized MLP,1847,999,241,0.24124124124124124
+Tuned XGBoost,1847,999,269,0.26926926926926925
