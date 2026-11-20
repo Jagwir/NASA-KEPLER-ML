@@ -1,0 +1,16 @@
+experiment,fold,n_features,validation_f1,features_removed
+All 19 features,1,19,0.8305810397553517,
+All 19 features,2,19,0.835742444152431,
+All 19 features,3,19,0.8278102664067576,
+All 19 features,4,19,0.8255261371350985,
+All 19 features,5,19,0.8206131767775603,
+Remove bottom 5,1,14,0.8264248704663213,koi_dor;koi_prad;koi_sma;koi_insol;koi_srad
+Remove bottom 5,2,14,0.8328947368421052,koi_dor;koi_prad;koi_sma;koi_insol;koi_srad
+Remove bottom 5,3,14,0.8322411533420708,koi_dor;koi_prad;koi_sma;koi_insol;koi_srad
+Remove bottom 5,4,14,0.831081081081081,koi_dor;koi_prad;koi_sma;koi_insol;koi_srad
+Remove bottom 5,5,14,0.8181221273801708,koi_dor;koi_prad;koi_sma;koi_insol;koi_srad
+Remove top 3,1,16,0.8149068322981367,koi_duration;koi_teq;koi_num_transits
+Remove top 3,2,16,0.8132568514977693,koi_duration;koi_teq;koi_num_transits
+Remove top 3,3,16,0.800761421319797,koi_duration;koi_teq;koi_num_transits
+Remove top 3,4,16,0.8114499066583696,koi_duration;koi_teq;koi_num_transits
+Remove top 3,5,16,0.7910168434185901,koi_duration;koi_teq;koi_num_transits

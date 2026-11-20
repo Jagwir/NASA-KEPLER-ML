@@ -1,0 +1,4 @@
+experiment,n_features,features_removed,mean,std
+All 19 features,19,,0.8280546128454398,0.005641663063496919
+Remove bottom 5,14,koi_dor;koi_prad;koi_sma;koi_insol;koi_srad,0.8281527938223497,0.006151738815841307
+Remove top 3,16,koi_duration;koi_teq;koi_num_transits,0.8062783710385325,0.010164217547221752
